@@ -1,12 +1,16 @@
 <div align="center">
 
 <!-- Ultra Premium Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=ELITE%20DEVELOPER&fontSize=70&color=0:667eea,50:764ba2,100:f093fb&fontColor=ffffff&stroke=ffffff&strokeWidth=2&animation=fadeIn&desc=Crafting%20Digital%20Masterpieces%20•%20Architecting%20The%20Future&descSize=20&descAlign=60" width="100%"/>
+<p align="center">
+  <a href="https://sihab.web.app" target="_blank">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=SIHAB%20HASAN&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%" alt="Sihab Hasan" />
+  </a>
+</p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<!-- Dynamic Typing Effect -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=667EEA&center=true&vCenter=true&width=940&lines=Full-Stack+Architect+%7C+Cloud+Innovator+☁️;Game+Developer+%7C+AI+Engineer+🤖;DevOps+Specialist+%7C+Content+Creator+🎬;Building+Tomorrow's+Technology+Today+🚀" alt="Typing SVG" />
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=00F7F7&center=true&vCenter=true&multiline=false&width=700&height=60&lines=Full-Stack+Developer;Tech+Architect;Cloud+Engineer;DevOps+Specialist;Game+Development;AI+Solutions;Building+The+Future,+One+Line+at+a+Time" alt="Typing SVG" />
+</p>
 
 <!-- Stats Badges -->
 <p>
