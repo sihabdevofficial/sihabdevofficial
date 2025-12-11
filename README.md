@@ -73,7 +73,6 @@
          title="Live Profile Views"/>
   </a>
 </p>
-
 <!-- Animated Banner -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Divider"/>
 
@@ -81,9 +80,14 @@
 
 ---
 
-## ✨ ABOUT ME
+<!-- 🎨 ABOUT SECTION -->
+<br/>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<table align="center">
+<tr>
+<td width="55%" valign="top">
+
+## 👨‍💻 ABOUT ME
 
 🚀 **Elite Full-Stack Developer** crafting extraordinary experiences  
 💎 **Technical Architect** designing scalable solutions  
@@ -92,20 +96,37 @@
 🤖 **AI Specialist** integrating intelligent automation  
 📹 **Content Creator** sharing with 500K+ subscribers  
 
-### 🌟 What I Do
+### 🎯 What I Do
 
-✅ Build enterprise applications from concept to deployment  
-✅ Design cloud architectures for millions of users  
-✅ Create game engines with cutting-edge rendering  
-✅ Develop AI/ML solutions for real-world problems  
-✅ Lead technical teams with agile methodologies  
-✅ Share educational content worldwide  
+- ⚡ **Enterprise Applications** - From concept to production
+- ☁️ **Cloud Architecture** - Scalable for millions of users
+- 🎮 **Game Engines** - Cutting-edge rendering tech
+- 🤖 **AI/ML Solutions** - Real-world intelligent systems
+- 👥 **Team Leadership** - Agile methodologies & mentorship
+- 📹 **Educational Content** - Worldwide knowledge sharing
 
-> *"Transforming challenges into elegant solutions, one innovation at a time."*
+</td>
+<td width="45%" valign="top">
 
-<br clear="both"/>
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%"/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<br/><br/>
+
+### 💡 Current Focus
+
+```javascript
+⚡ Building next-gen applications
+🌐 Scaling cloud infrastructure
+🎮 Developing immersive experiences
+🤖 Integrating AI/ML capabilities
+📹 Creating technical content
+```
+
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
 ---
 
@@ -114,34 +135,41 @@
 ## 🎨 TECHNOLOGY STACK
 
 ### Languages
-
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,rust,go,php&theme=dark"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,rust,go,php&perline=8&theme=dark" alt="Languages"/>
+</p>
 
 ### Frontend
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,svelte,redux,tailwind,materialui&theme=dark"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,svelte,redux,tailwind,materialui&perline=8&theme=dark" alt="Frontend"/>
+</p>
 
 ### Backend & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,django,spring,fastapi,graphql,flask&perline=8&theme=dark" alt="Backend"/>
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,jenkins,nginx&perline=8&theme=dark" alt="Cloud"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,django,spring,fastapi,graphql,flask&theme=dark"/>
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,jenkins,nginx&theme=dark"/>
+### Database
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,cassandra,elasticsearch,dynamodb,firebase&perline=8&theme=dark" alt="Databases"/>
+</p>
 
-### Databases
-
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,cassandra,elasticsearch,dynamodb,firebase&theme=dark"/>
-
-### AI & Game Dev
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn&theme=dark"/>
-<img src="https://skillicons.dev/icons?i=unity,unreal,godot,blender,threejs,opengl&theme=dark"/>
+### AI/ML & Game Dev
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn,unity,unreal,godot,blender&perline=8&theme=dark" alt="AI & Games"/>
+</p>
 
 ### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux&theme=dark"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux,threejs,opengl&perline=8&theme=dark" alt="Tools"/>
+</p>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
 ---
 
@@ -153,76 +181,88 @@
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🎮 Draco Venator Game Engine
 <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="100%"/>
 
-**Next-Gen C++ Engine**
+**Next-Generation C++ Game Engine**
 
-⚡ Multi-threaded architecture  
-🎨 PBR rendering system  
-🌐 Cross-platform support  
-📊 60+ FPS, 10K+ entities
+- ⚡ Multi-threaded Architecture - Maximum performance
+- 🎨 PBR Rendering System - Photorealistic graphics
+- 🌐 Cross-Platform Support - Windows, Linux, macOS
+- 📊 Performance - 60+ FPS with 10K+ entities
 
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenGL-5586A4?style=flat-square"/>
+<p>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vulkan-AC162C?style=flat-square&logo=vulkan&logoColor=white"/>
+</p>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🛒 E-Commerce Platform
 <img src="https://user-images.githubusercontent.com/74038190/213760697-1dc03683-ba49-44c0-8428-6e33f4b6b7dc.gif" width="100%"/>
 
 **Scalable Microservices**
 
-☁️ Serverless backend  
-💳 Payment integration  
-📈 Real-time analytics  
-📊 100K+ transactions/month
+- ☁️ Serverless Backend - Auto-scaling infrastructure
+- 💳 Payment Integration - Multi-gateway support
+- 📈 Real-time Analytics - Business intelligence
+- 📊 Scale - 100K+ transactions monthly
 
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
+</p>
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🤖 AI Design Intelligence
 <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="100%"/>
 
-**ML-Powered UI/UX**
+**ML-Powered UI/UX Optimization**
 
-🧠 Neural networks  
-📊 A/B testing automation  
-✨ Design optimization  
-📊 95% success rate
+- 🧠 Neural Networks - Deep learning models
+- 📊 A/B Testing - Automated optimization
+- ✨ Design Intelligence - Smart recommendations
+- 📈 Success Rate** - 95% improvement metrics
 
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+</p>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### ☁️ Cloud Orchestration
 <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100%"/>
 
 **Multi-Cloud System**
 
-⚙️ Infrastructure as Code  
-🔄 Automated CI/CD  
-🐳 Kubernetes orchestration  
-📊 10K+ deployments/month
+- ⚙️ Infrastructure as Code - Terraform automation
+- 🔄 Automated CI/CD - Continuous deployment
+- 🐳 Kubernetes - Container orchestration
+- 📊 Scale - 10K+ deployments monthly
 
-<img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
+<p>
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+</p>
 
 </td>
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
 ---
 
@@ -230,62 +270,43 @@
 
 ## 📊 REAL-TIME GITHUB STATISTICS
 
-<!-- Live GitHub Profile Stats (auto-refresh every cache interval) -->
-<p align="center">
-  <a href="https://github.com/sihabdevofficial" target="_blank">
-    <img width="49%" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sihabdevofficial&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=f093fb&text_color=c9d1d9&cache_seconds=900&count_private=true&line_height=27"/>
-  </a>
-  <a href="https://github.com/sihabdevofficial" target="_blank">
-    <img width="49%" alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sihabdevofficial&theme=radical&hide_border=true&background=0D1117&ring=667eea&fire=f093fb&currStreakLabel=667eea"/>
-  </a>
-</p>
+<table>
+<tr>
+<td width="50%">
 
-<!-- Top Languages - Real-time programming language breakdown -->
-<p align="center">
-  <a href="https://github.com/sihabdevofficial" target="_blank">
-    <img width="100%" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sihabdevofficial&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=c9d1d9&cache_seconds=900&langs_count=12&card_width=320"/>
-  </a>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=sihabdevofficial&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=f093fb&text_color=c9d1d9&count_private=true&line_height=27&cache_seconds=900" width="100%" alt="GitHub Stats"/>
 
-<!-- Activity Graph - Real-time contribution activity visualization -->
-<p align="center">
-  <a href="https://github.com/sihabdevofficial" target="_blank">
-    <img width="100%" alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=sihabdevofficial&bg_color=0D1117&color=667eea&line=f093fb&point=c9d1d9&hide_border=true&area=true&theme=radical&custom_title=GitHub%20Activity%20Graph"/>
-  </a>
-</p>
+</td>
+<td width="50%">
 
-<!-- Trophies - Real-time GitHub achievements and milestones -->
-<p align="center">
-  <a href="https://github.com/sihabdevofficial" target="_blank">
-    <img width="100%" alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=sihabdevofficial&theme=radical&no-frame=true&column=7&row=2&margin-w=5&margin-h=5&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C"/>
-  </a>
-</p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sihabdevofficial&theme=radical&hide_border=true&background=0D1117&ring=667eea&fire=f093fb&currStreakLabel=667eea" width="100%" alt="GitHub Streak"/>
 
-<!-- Real-time Contribution Snake Animation -->
-<a href="https://github.com/sihabdevofficial" target="_blank">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sihabdevofficial/sihabdevofficial/output/github-contribution-grid-snake-dark.svg" alt="Contribution Graph">
-    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/sihabdevofficial/sihabdevofficial/output/github-contribution-grid-snake-dark.svg">
-  </picture>
-</a>
+</td>
+</tr>
+</table>
 
-<!-- GitHub Real-time Statistics Info Box -->
-<details>
-<summary><b>📈 Real-Time Stats Details</b></summary>
+### 💻 Top Languages
 
-- **Live Data Source**: GitHub API v3 (updates every few seconds)
-- **Contribution Graph**: Auto-updates with daily activity
-- **Streak Counter**: Real-time current streak tracking
-- **Language Stats**: Top languages by repository usage (updates hourly)
-- **Trophy System**: Achievement tracking (updates daily)
-- **Profile Views**: Live counter updated in real-time
-- **All Data**: Cached for 15 minutes (900 seconds) for optimal performance
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sihabdevofficial&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=c9d1d9&langs_count=12&card_width=600&cache_seconds=900" width="60%" alt="Top Languages"/>
 
-</details>
+### 📈 GitHub Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sihabdevofficial&bg_color=0D1117&color=667eea&line=f093fb&point=c9d1d9&hide_border=true&area=true&theme=radical&custom_title=Contribution%20Graph" width="100%" alt="Activity Graph"/>
+
+### 🏆 GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=sihabdevofficial&theme=radical&no-frame=true&column=7&row=2&margin-w=10&margin-h=10&rank=SECRET,SSS,SS,S,AAA,AA,A" width="100%" alt="Trophies"/>
+
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sihabdevofficial/sihabdevofficial/output/github-contribution-grid-snake-dark.svg">
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/sihabdevofficial/sihabdevofficial/output/github-contribution-grid-snake-dark.svg" width="100%">
+</picture>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
 ---
 
@@ -345,12 +366,75 @@
 </a>
 <img src="https://img.shields.io/youtube/channel/subscribers/UCIoRLTmLOCLvFVmy1VtztXQ?style=for-the-badge&label=SUBSCRIBERS&labelColor=1a1b27&color=FF0000"/>
 
-### Latest Videos
+### 🎬 Featured Videos
 
-📹 **Building AI Apps with Next.js** • 125K views  
-📹 **Kubernetes Complete Guide** • 98K views  
-📹 **React Performance Secrets** • 156K views  
-📹 **Cloud Architecture Patterns** • 87K views
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="80"/><br/>
+<b>Building AI Apps</b><br/>
+<sub>125K views</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" width="80"/><br/>
+<b>Kubernetes Guide</b><br/>
+<sub>98K views</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2848-41fb-b5f0-881658d34ca5.gif" width="80"/><br/>
+<b>React Performance</b><br/>
+<sub>156K views</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="80"/><br/>
+<b>Cloud Architecture</b><br/>
+<sub>87K views</sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+
+---
+
+<div align="center">
+
+## 💼 CONSULTATION SERVICES
+
+<table>
+<tr>
+<td width="25%" align="center">
+<img src="https://user-images.githubusercontent.com/74038190/216649426-3a4c9aca-8974-4fba-8f94-4bae71a49140.gif" width="80"/><br>
+<b>Technical Architecture</b><br>
+<sub>System design & scalability</sub>
+</td>
+<td width="25%" align="center">
+<img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" width="80"/><br>
+<b>Performance Optimization</b><br>
+<sub>Code & infrastructure</sub>
+</td>
+<td width="25%" align="center">
+<img src="https://user-images.githubusercontent.com/74038190/216649430-7baf10ec-89d5-4ab0-8c85-3fd157ca87da.gif" width="80"/><br>
+<b>Team Mentoring</b><br>
+<sub>Leadership & training</sub>
+</td>
+<td width="25%" align="center">
+<img src="https://user-images.githubusercontent.com/74038190/216649436-37ab6f37-a9fb-462d-bb51-09f67e4a24c2.gif" width="80"/><br>
+<b>Code Audits</b><br>
+<sub>Technical due diligence</sub>
+</td>
+</tr>
+</table>
+
+### 📅 Engagement Options
+
+**Hourly Consultation** • **Project Contracts** • **Retainer Agreements** • **Technical Workshops**
+
+<a href="mailto:sihab.dev.official@gmail.com">
+  <img src="https://img.shields.io/badge/SCHEDULE_CONSULTATION-667eea?style=for-the-badge&logoColor=white&labelColor=1a1b27"/>
+</a>
 
 </div>
 
@@ -394,49 +478,6 @@
 </a>
 <a href="https://stackoverflow.com/users/yourid">
   <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white&labelColor=1a1b27"/>
-</a>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
----
-
-<div align="center">
-
-## 💼 CONSULTATION SERVICES
-
-<table>
-<tr>
-<td width="25%" align="center">
-<img src="https://user-images.githubusercontent.com/74038190/216649426-3a4c9aca-8974-4fba-8f94-4bae71a49140.gif" width="80"/><br>
-<b>Technical Architecture</b><br>
-<sub>System design & scalability</sub>
-</td>
-<td width="25%" align="center">
-<img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" width="80"/><br>
-<b>Performance Optimization</b><br>
-<sub>Code & infrastructure</sub>
-</td>
-<td width="25%" align="center">
-<img src="https://user-images.githubusercontent.com/74038190/216649430-7baf10ec-89d5-4ab0-8c85-3fd157ca87da.gif" width="80"/><br>
-<b>Team Mentoring</b><br>
-<sub>Leadership & training</sub>
-</td>
-<td width="25%" align="center">
-<img src="https://user-images.githubusercontent.com/74038190/216649436-37ab6f37-a9fb-462d-bb51-09f67e4a24c2.gif" width="80"/><br>
-<b>Code Audits</b><br>
-<sub>Technical due diligence</sub>
-</td>
-</tr>
-</table>
-
-### 📅 Engagement Options
-
-**Hourly Consultation** • **Project Contracts** • **Retainer Agreements** • **Technical Workshops**
-
-<a href="mailto:sihab.dev.official@gmail.com">
-  <img src="https://img.shields.io/badge/SCHEDULE_CONSULTATION-667eea?style=for-the-badge&logoColor=white&labelColor=1a1b27"/>
 </a>
 
 </div>
@@ -492,7 +533,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 
-**© 2024 • Crafted with ❤️ and ☕**
+**© 2025 • Sihab Hasan**
 
 *"Code is poetry written in logic"*
 
