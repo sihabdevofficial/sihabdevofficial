@@ -12,26 +12,69 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=00F7F7&center=true&vCenter=true&multiline=false&width=700&height=60&lines=Full-Stack+Developer;Tech+Architect;Cloud+Engineer;DevOps+Specialist;Game+Development;AI+Solutions;Building+The+Future,+One+Line+at+a+Time" alt="Typing SVG" />
 </p>
 
-<!-- Real-time Stats Badges with Live Data -->
-<p align="center">
+<!-- ========================= -->
+<!-- Real-time Stats & Badges -->
+<!-- ========================= -->
+<div align="center">
+
+### 🎖️ Professional Status & Experience
+
+<!-- Primary Status Badges -->
+<p>
   <!-- EXPERIENCE_BADGE_START -->
-  <img src="https://img.shields.io/badge/Experience-2%2B%20Years-667eea?style=for-the-badge&labelColor=1a1b27&logo=databricks&logoColor=667eea&cacheSeconds=3600" id="experience-badge" />
+  <a href="https://github.com/sihabdevofficial" target="_blank">
+    <img src="https://img.shields.io/badge/Experience-2%2B%20Years-667eea?style=for-the-badge&labelColor=1a1b27&logo=databricks&logoColor=667eea&cacheSeconds=3600" 
+         id="experience-badge" 
+         alt="Experience: 2+ Years" 
+         title="Experience since 2023" />
+  </a>
   <!-- EXPERIENCE_BADGE_END -->
-  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/sihabdevofficial&query=public_repos&label=Repositories&style=for-the-badge&labelColor=1a1b27&color=f093fb&logo=github"/>
-  <img src="https://img.shields.io/badge/Available-For%20Hire-00ff88?style=for-the-badge&labelColor=1a1b27&logo=checkmarx&logoColor=00ff88&cacheSeconds=3600"/>
+  
+  <a href="https://github.com/sihabdevofficial?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/sihabdevofficial&query=public_repos&label=Repositories&style=for-the-badge&labelColor=1a1b27&color=f093fb&logo=github&cacheSeconds=900" 
+         alt="Public Repositories"/>
+  </a>
+  
+  <img src="https://img.shields.io/badge/Available-For%20Hire-00ff88?style=for-the-badge&labelColor=1a1b27&logo=checkmarx&logoColor=00ff88&cacheSeconds=3600" 
+       alt="Available for Hire"/>
 </p>
 
-<!-- Real-time Profile Views Counter -->
-<img src="https://komarev.com/ghpvc/?username=sihabdevofficial&label=PROFILE+VIEWS&color=667eea&style=for-the-badge&labelColor=1a1b27&abbreviated=true"/>
+---
 
-<!-- Real-time GitHub Live Metrics -->
-<p align="center">
-  <img src="https://img.shields.io/github/followers/sihabdevofficial?label=GitHub%20Followers&style=flat-square&color=667eea&labelColor=1a1b27&logo=github"/>
-  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/sihabdevofficial&query=followers&label=Followers&style=flat-square&color=667eea&labelColor=1a1b27"/>
-  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/sihabdevofficial&query=public_repos&label=Public%20Repos&style=flat-square&color=f093fb&labelColor=1a1b27"/>
+### 📊 Live Metrics Dashboard
+
+<!-- Real-time GitHub Metrics -->
+<p>
+  <a href="https://github.com/sihabdevofficial" target="_blank">
+    <img src="https://img.shields.io/github/followers/sihabdevofficial?label=GitHub%20Followers&logo=github&style=for-the-badge&labelColor=1a1b27&color=667eea&cacheSeconds=900" 
+         alt="GitHub Followers"/>
+  </a>
+  
+  <a href="https://github.com/sihabdevofficial?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/sihabdevofficial&query=public_repos&label=Public%20Repos&style=for-the-badge&labelColor=1a1b27&color=f093fb&logo=github&cacheSeconds=900" 
+         alt="Public Repositories"/>
+  </a>
+  
+  <a href="https://gist.github.com/sihabdevofficial" target="_blank">
+    <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/sihabdevofficial&query=public_gists&label=Public%20Gists&style=for-the-badge&labelColor=1a1b27&color=667eea&logo=github&cacheSeconds=900" 
+         alt="Public Gists"/>
+  </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<p>
+  <a href="https://github.com/sihabdevofficial" target="_blank">
+    <img src="https://img.shields.io/github/stars/sihabdevofficial?label=Total%20Stars&style=for-the-badge&labelColor=1a1b27&color=f093fb&logo=github&cacheSeconds=900" 
+         alt="Total Stars Received"/>
+  </a>
+  
+  <a href="https://github.com/sihabdevofficial" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=sihabdevofficial&label=PROFILE%20VIEWS&color=667eea&style=for-the-badge&labelColor=1a1b27" 
+         alt="Profile Views Counter"/>
+  </a>
+</p>
+
+<!-- Animated Banner -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Divider"/>
 
 </div>
 
@@ -186,35 +229,58 @@
 
 ## 📊 REAL-TIME GITHUB STATISTICS
 
-<!-- Real-time stats with auto-refresh (30 min cache) -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sihabdevofficial&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=f093fb&text_color=c9d1d9&cache_seconds=1800&count_private=true"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sihabdevofficial&theme=radical&hide_border=true&background=0D1117&ring=667eea&fire=f093fb&currStreakLabel=667eea"/>
+<!-- Live GitHub Profile Stats (auto-refresh every cache interval) -->
+<p align="center">
+  <a href="https://github.com/sihabdevofficial" target="_blank">
+    <img width="49%" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sihabdevofficial&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=f093fb&text_color=c9d1d9&cache_seconds=900&count_private=true&line_height=27"/>
+  </a>
+  <a href="https://github.com/sihabdevofficial" target="_blank">
+    <img width="49%" alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sihabdevofficial&theme=radical&hide_border=true&background=0D1117&ring=667eea&fire=f093fb&currStreakLabel=667eea"/>
+  </a>
+</p>
 
-<!-- Top languages - Real-time updated (30 min cache) -->
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sihabdevofficial&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=c9d1d9&cache_seconds=1800&langs_count=10"/>
+<!-- Top Languages - Real-time programming language breakdown -->
+<p align="center">
+  <a href="https://github.com/sihabdevofficial" target="_blank">
+    <img width="100%" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sihabdevofficial&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=c9d1d9&cache_seconds=900&langs_count=12&card_width=320"/>
+  </a>
+</p>
 
-<!-- Activity graph - Real-time activity tracking -->
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sihabdevofficial&bg_color=0D1117&color=667eea&line=f093fb&point=c9d1d9&hide_border=true&area=true&theme=radical"/>
+<!-- Activity Graph - Real-time contribution activity visualization -->
+<p align="center">
+  <a href="https://github.com/sihabdevofficial" target="_blank">
+    <img width="100%" alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=sihabdevofficial&bg_color=0D1117&color=667eea&line=f093fb&point=c9d1d9&hide_border=true&area=true&theme=radical&custom_title=GitHub%20Activity%20Graph"/>
+  </a>
+</p>
 
-<!-- Trophies - Real-time achievements (updated daily) -->
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=sihabdevofficial&theme=radical&no-frame=true&column=7&row=2&margin-w=5&margin-h=5"/>
+<!-- Trophies - Real-time GitHub achievements and milestones -->
+<p align="center">
+  <a href="https://github.com/sihabdevofficial" target="_blank">
+    <img width="100%" alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=sihabdevofficial&theme=radical&no-frame=true&column=7&row=2&margin-w=5&margin-h=5&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C"/>
+  </a>
+</p>
 
-<!-- Real-time contribution snake animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sihabdevofficial/sihabdevofficial/output/github-contribution-grid-snake-dark.svg">
-  <img alt="snake animation" src="https://raw.githubusercontent.com/sihabdevofficial/sihabdevofficial/output/github-contribution-grid-snake-dark.svg">
-</picture>
+<!-- Real-time Contribution Snake Animation -->
+<a href="https://github.com/sihabdevofficial" target="_blank">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sihabdevofficial/sihabdevofficial/output/github-contribution-grid-snake-dark.svg" alt="Contribution Graph">
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/sihabdevofficial/sihabdevofficial/output/github-contribution-grid-snake-dark.svg">
+  </picture>
+</a>
 
-<!-- Live GitHub Metrics Dashboard -->
-<div align="center">
+<!-- GitHub Real-time Statistics Info Box -->
+<details>
+<summary><b>📈 Real-Time Stats Details</b></summary>
 
-### 🔄 Live Metrics Dashboard
+- **Live Data Source**: GitHub API v3 (updates every few seconds)
+- **Contribution Graph**: Auto-updates with daily activity
+- **Streak Counter**: Real-time current streak tracking
+- **Language Stats**: Top languages by repository usage (updates hourly)
+- **Trophy System**: Achievement tracking (updates daily)
+- **Profile Views**: Live counter updated in real-time
+- **All Data**: Cached for 15 minutes (900 seconds) for optimal performance
 
-<img src="https://img.shields.io/github/followers/sihabdevofficial?label=GitHub%20Followers&logo=github&style=social"/>
-<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/sihabdevofficial&query=public_repos&label=Repositories&logo=github&style=social"/>
-<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/sihabdevofficial&query=followers&label=Followers%20Count&style=social"/>
-
-</div>
+</details>
 
 </div>
 
