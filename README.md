@@ -2,7 +2,7 @@
 
 <!-- Ultra Premium Animated Header -->
 <p align="center">
-  <a href="https://sihab.web.app" target="_blank">
+  <a href="https://sihabxd.web.app" target="_blank">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=SIHAB%20HASAN&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%" alt="Sihab Hasan" />
   </a>
 </p>
@@ -12,14 +12,24 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=00F7F7&center=true&vCenter=true&multiline=false&width=700&height=60&lines=Full-Stack+Developer;Tech+Architect;Cloud+Engineer;DevOps+Specialist;Game+Development;AI+Solutions;Building+The+Future,+One+Line+at+a+Time" alt="Typing SVG" />
 </p>
 
-<!-- Stats Badges -->
-<p>
-  <img src="https://img.shields.io/badge/Experience-7%2B%20Years-667eea?style=for-the-badge&labelColor=1a1b27&logo=databricks&logoColor=667eea"/>
-  <img src="https://img.shields.io/badge/Projects-150%2B-f093fb?style=for-the-badge&labelColor=1a1b27&logo=gitbook&logoColor=f093fb"/>
-  <img src="https://img.shields.io/badge/Available-For%20Hire-00ff88?style=for-the-badge&labelColor=1a1b27&logo=checkmarx&logoColor=00ff88"/>
+<!-- Real-time Stats Badges with Live Data -->
+<p align="center">
+  <!-- EXPERIENCE_BADGE_START -->
+  <img src="https://img.shields.io/badge/Experience-2%2B%20Years-667eea?style=for-the-badge&labelColor=1a1b27&logo=databricks&logoColor=667eea&cacheSeconds=3600" id="experience-badge" />
+  <!-- EXPERIENCE_BADGE_END -->
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/sihabdevofficial&query=public_repos&label=Repositories&style=for-the-badge&labelColor=1a1b27&color=f093fb&logo=github"/>
+  <img src="https://img.shields.io/badge/Available-For%20Hire-00ff88?style=for-the-badge&labelColor=1a1b27&logo=checkmarx&logoColor=00ff88&cacheSeconds=3600"/>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=yourusername&label=PROFILE+VIEWS&color=667eea&style=for-the-badge&labelColor=1a1b27"/>
+<!-- Real-time Profile Views Counter -->
+<img src="https://komarev.com/ghpvc/?username=sihabdevofficial&label=PROFILE+VIEWS&color=667eea&style=for-the-badge&labelColor=1a1b27&abbreviated=true"/>
+
+<!-- Real-time GitHub Live Metrics -->
+<p align="center">
+  <img src="https://img.shields.io/github/followers/sihabdevofficial?label=GitHub%20Followers&style=flat-square&color=667eea&labelColor=1a1b27&logo=github"/>
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/sihabdevofficial&query=followers&label=Followers&style=flat-square&color=667eea&labelColor=1a1b27"/>
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/sihabdevofficial&query=public_repos&label=Public%20Repos&style=flat-square&color=f093fb&labelColor=1a1b27"/>
+</p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
@@ -174,20 +184,37 @@
 
 <div align="center">
 
-## 📊 GITHUB STATISTICS
+## 📊 REAL-TIME GITHUB STATISTICS
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=f093fb&text_color=c9d1d9"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true&background=0D1117&ring=667eea&fire=f093fb&currStreakLabel=667eea"/>
+<!-- Real-time stats with auto-refresh (30 min cache) -->
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sihabdevofficial&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=f093fb&text_color=c9d1d9&cache_seconds=1800&count_private=true"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sihabdevofficial&theme=radical&hide_border=true&background=0D1117&ring=667eea&fire=f093fb&currStreakLabel=667eea"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=c9d1d9"/>
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&bg_color=0D1117&color=667eea&line=f093fb&point=c9d1d9&hide_border=true"/>
+<!-- Top languages - Real-time updated (30 min cache) -->
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sihabdevofficial&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=c9d1d9&cache_seconds=1800&langs_count=10"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-frame=true&column=7"/>
+<!-- Activity graph - Real-time activity tracking -->
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sihabdevofficial&bg_color=0D1117&color=667eea&line=f093fb&point=c9d1d9&hide_border=true&area=true&theme=radical"/>
 
+<!-- Trophies - Real-time achievements (updated daily) -->
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=sihabdevofficial&theme=radical&no-frame=true&column=7&row=2&margin-w=5&margin-h=5"/>
+
+<!-- Real-time contribution snake animation -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg">
-  <img alt="snake animation" src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sihabdevofficial/sihabdevofficial/output/github-contribution-grid-snake-dark.svg">
+  <img alt="snake animation" src="https://raw.githubusercontent.com/sihabdevofficial/sihabdevofficial/output/github-contribution-grid-snake-dark.svg">
 </picture>
+
+<!-- Live GitHub Metrics Dashboard -->
+<div align="center">
+
+### 🔄 Live Metrics Dashboard
+
+<img src="https://img.shields.io/github/followers/sihabdevofficial?label=GitHub%20Followers&logo=github&style=social"/>
+<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/sihabdevofficial&query=public_repos&label=Repositories&logo=github&style=social"/>
+<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/sihabdevofficial&query=followers&label=Followers%20Count&style=social"/>
+
+</div>
 
 </div>
 
@@ -246,10 +273,10 @@
 
 ### YouTube Channel 🎬
 
-<a href="https://youtube.com/@yourchannel">
+<a href="https://youtube.com/@sihabxd">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=1a1b27"/>
 </a>
-<img src="https://img.shields.io/youtube/channel/subscribers/YOUR_CHANNEL_ID?style=for-the-badge&label=SUBSCRIBERS&labelColor=1a1b27&color=FF0000"/>
+<img src="https://img.shields.io/youtube/channel/subscribers/UCIoRLTmLOCLvFVmy1VtztXQ?style=for-the-badge&label=SUBSCRIBERS&labelColor=1a1b27&color=FF0000"/>
 
 ### Latest Videos
 
@@ -271,16 +298,19 @@
 <a href="https://linkedin.com/in/yourprofile">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b27"/>
 </a>
-<a href="https://twitter.com/yourhandle">
+<a href="https://facebook.com/sihab.xd">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1a1b27"/>
+</a>
+<a href="https://twitter.com/sihabxd">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1a1b27"/>
 </a>
-<a href="https://instagram.com/yourhandle">
+<a href="https://instagram.com/sihab.xd">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1a1b27"/>
 </a>
-<a href="mailto:your.email@example.com">
+<a href="mailto:sihab.dev.official@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b27"/>
 </a>
-<a href="https://yourportfolio.com">
+<a href="https://sihabxd.web.app">
   <img src="https://img.shields.io/badge/Portfolio-667eea?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=1a1b27"/>
 </a>
 
@@ -338,7 +368,7 @@
 
 **Hourly Consultation** • **Project Contracts** • **Retainer Agreements** • **Technical Workshops**
 
-<a href="mailto:consultation@youremail.com">
+<a href="mailto:sihab.dev.official@gmail.com">
   <img src="https://img.shields.io/badge/SCHEDULE_CONSULTATION-667eea?style=for-the-badge&logoColor=white&labelColor=1a1b27"/>
 </a>
 
@@ -389,7 +419,7 @@
 <a href="https://buymeacoffee.com/yourprofile">
   <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black&labelColor=1a1b27"/>
 </a>
-<a href="https://github.com/sponsors/yourusername">
+<a href="https://github.com/sponsors/sihabdevofficial">
   <img src="https://img.shields.io/badge/GitHub_Sponsor-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white&labelColor=1a1b27"/>
 </a>
 
