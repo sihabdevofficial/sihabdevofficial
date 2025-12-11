@@ -1,57 +1,67 @@
-name: Generate Snake Contribution
+name: Generate Contribution Snake
 
 on:
-  # Schedule the workflow to run daily at midnight UTC
+  # Run automatically every 24 hours (at midnight UTC)
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *"  
   
-  # Allow manual triggering of the workflow
+  # Allows you to manually run the job at any time
   workflow_dispatch:
   
-  # Trigger the workflow on pushes to the main branch
+  # Run on every push to the default branches
   push:
     branches:
-      - main
-      - master # Added 'master' for common compatibility
+    - master
+    - main
 
 jobs:
   generate:
-    # IMPORTANT: Define write permissions for the GITHUB_TOKEN for this job
-    permissions:
-      contents: write 
+    # Grants the necessary write permissions to the GITHUB_TOKEN for deployment
+    permissions:  
+      contents: write
     runs-on: ubuntu-latest
-    timeout-minutes: 5 # Reduced timeout since this is a fast job
+    timeout-minutes: 10
     
     steps:
-      # Step 1: Checkout the repository
-      # This is required for the deploy step to work correctly
+      # Step 1: Check out the repository code (Required for the deployment step)
       - name: Checkout Repository
-        uses: actions/checkout@v4 
-
-      # Step 2: Generate the snake animations
-      - name: Generate GitHub Contributions Snake Animations
-        # Using the svg-only variant for better performance and common use
-        uses: Platane/snk/svg-only@v3 
+        uses: actions/checkout@v4
         with:
-          # GitHub username to generate the animation for
-          github_user_name: ${{ github.repository_owner }}
+          fetch-depth: 0
 
-          # Define the output files and their configurations
+      # Step 2: Create dist directory
+      - name: Create dist Directory
+        run: mkdir -p dist
+
+      # Step 3: Generates the snake SVG files 
+      - name: Generate github-contribution-grid-snake.svg
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
         env:
-          # Note: The GITHUB_TOKEN is required to fetch contributions data securely
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # Step 3: Deploy the generated files to the 'output' branch
-      # Using crazy-max/ghaction-github-pages is often simpler for deployment
+      # Step 4: Verify SVG files were generated
+      - name: Verify Generated Files
+        run: |
+          if [ -f "dist/github-contribution-grid-snake.svg" ]; then
+            echo "✓ Snake SVG generated successfully"
+            ls -lh dist/
+          else
+            echo "✗ Failed to generate SVG files"
+            exit 1
+          fi
+
+      # Step 5: Pushes the generated content to the 'output' branch
       - name: Deploy to Output Branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
+          committer_name: github-actions[bot]
+          committer_email: github-actions[bot]@users.noreply.github.com
         env:
-          # The GITHUB_TOKEN is used here automatically by the action 
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
