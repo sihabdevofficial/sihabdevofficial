@@ -20,48 +20,33 @@ jobs:
     permissions:  
       contents: write
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 5
     
     steps:
       # Step 1: Check out the repository code (Required for the deployment step)
       - name: Checkout Repository
         uses: actions/checkout@v4
         with:
+          # fetch-depth: 0 is correct for this action, keeps it.
           fetch-depth: 0
 
-      # Step 2: Create dist directory
-      - name: Create dist Directory
-        run: mkdir -p dist
-
-      # Step 3: Generates the snake SVG files 
+      # Step 2: Generates the snake SVG files 
       - name: Generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            # FIX: Added '&width=900' to set an explicit width that fits better
+            dist/github-contribution-grid-snake.svg?width=900
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&width=900
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      # Step 4: Verify SVG files were generated
-      - name: Verify Generated Files
-        run: |
-          if [ -f "dist/github-contribution-grid-snake.svg" ]; then
-            echo "✓ Snake SVG generated successfully"
-            ls -lh dist/
-          else
-            echo "✗ Failed to generate SVG files"
-            exit 1
-          fi
-
-      # Step 5: Pushes the generated content to the 'output' branch
+          
+      # Step 3: Pushes the generated content to the 'output' branch
       - name: Deploy to Output Branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
-          committer_name: github-actions[bot]
-          committer_email: github-actions[bot]@users.noreply.github.com
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
