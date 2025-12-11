@@ -68,8 +68,9 @@
   </a>
   
   <a href="https://github.com/sihabdevofficial" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=sihabdevofficial&label=PROFILE%20VIEWS&color=667eea&style=for-the-badge&labelColor=1a1b27" 
-         alt="Profile Views Counter"/>
+    <img src="https://komarev.com/ghpvc/?username=sihabdevofficial&label=PROFILE%20VIEWS&color=667eea&style=for-the-badge&labelColor=1a1b27&abbreviated=false" 
+         alt="Profile Views Counter"
+         title="Live Profile Views"/>
   </a>
 </p>
 
