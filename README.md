@@ -293,10 +293,6 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sihabdevofficial&bg_color=0D1117&color=667eea&line=f093fb&point=c9d1d9&hide_border=true&area=true&theme=radical&custom_title=Contribution%20Graph" width="100%" alt="Activity Graph"/>
 
-### 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=sihabdevofficial&theme=radical&no-frame=true&column=7&row=2&margin-w=10&margin-h=10&rank=SECRET,SSS,SS,S,AAA,AA,A" width="100%" alt="Trophies"/>
-
 ### 🐍 Contribution Snake
 
 <picture>
