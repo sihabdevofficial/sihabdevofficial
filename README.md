@@ -401,49 +401,6 @@
 
 <div align="center">
 
-## 💼 CONSULTATION SERVICES
-
-<table>
-<tr>
-<td width="25%" align="center">
-<img src="https://user-images.githubusercontent.com/74038190/216649426-3a4c9aca-8974-4fba-8f94-4bae71a49140.gif" width="80"/><br>
-<b>Technical Architecture</b><br>
-<sub>System design & scalability</sub>
-</td>
-<td width="25%" align="center">
-<img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" width="80"/><br>
-<b>Performance Optimization</b><br>
-<sub>Code & infrastructure</sub>
-</td>
-<td width="25%" align="center">
-<img src="https://user-images.githubusercontent.com/74038190/216649430-7baf10ec-89d5-4ab0-8c85-3fd157ca87da.gif" width="80"/><br>
-<b>Team Mentoring</b><br>
-<sub>Leadership & training</sub>
-</td>
-<td width="25%" align="center">
-<img src="https://user-images.githubusercontent.com/74038190/216649436-37ab6f37-a9fb-462d-bb51-09f67e4a24c2.gif" width="80"/><br>
-<b>Code Audits</b><br>
-<sub>Technical due diligence</sub>
-</td>
-</tr>
-</table>
-
-### 📅 Engagement Options
-
-**Hourly Consultation** • **Project Contracts** • **Retainer Agreements** • **Technical Workshops**
-
-<a href="mailto:sihab.dev.official@gmail.com">
-  <img src="https://img.shields.io/badge/SCHEDULE_CONSULTATION-667eea?style=for-the-badge&logoColor=white&labelColor=1a1b27"/>
-</a>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
----
-
-<div align="center">
-
 ## 🌐 CONNECT WITH ME
 
 <a href="https://linkedin.com/in/yourprofile">
@@ -478,6 +435,49 @@
 </a>
 <a href="https://stackoverflow.com/users/yourid">
   <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white&labelColor=1a1b27"/>
+</a>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+---
+
+<div align="center">
+
+## 💼 CONSULTATION SERVICES
+
+<table>
+<tr>
+<td width="25%" align="center">
+<img src="https://user-images.githubusercontent.com/74038190/216649426-3a4c9aca-8974-4fba-8f94-4bae71a49140.gif" width="80"/><br>
+<b>Technical Architecture</b><br>
+<sub>System design & scalability</sub>
+</td>
+<td width="25%" align="center">
+<img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" width="80"/><br>
+<b>Performance Optimization</b><br>
+<sub>Code & infrastructure</sub>
+</td>
+<td width="25%" align="center">
+<img src="https://user-images.githubusercontent.com/74038190/216649430-7baf10ec-89d5-4ab0-8c85-3fd157ca87da.gif" width="80"/><br>
+<b>Team Mentoring</b><br>
+<sub>Leadership & training</sub>
+</td>
+<td width="25%" align="center">
+<img src="https://user-images.githubusercontent.com/74038190/216649436-37ab6f37-a9fb-462d-bb51-09f67e4a24c2.gif" width="80"/><br>
+<b>Code Audits</b><br>
+<sub>Technical due diligence</sub>
+</td>
+</tr>
+</table>
+
+### 📅 Engagement Options
+
+**Hourly Consultation** • **Project Contracts** • **Retainer Agreements** • **Technical Workshops**
+
+<a href="mailto:sihab.dev.official@gmail.com">
+  <img src="https://img.shields.io/badge/SCHEDULE_CONSULTATION-667eea?style=for-the-badge&logoColor=white&labelColor=1a1b27"/>
 </a>
 
 </div>
