@@ -58,10 +58,10 @@
 
 <table border="0" width="100%">
   <tr>
-    <td width="45%" align="center" style="border: none;">
+    <td width="50%" align="center" style="border: none;">
       <img src="https://github-readme-stats.vercel.app/api?username=sihabdevofficial&show_icons=true&theme=radical&hide_border=true&bg_color=0D111700&title_color=667eea&icon_color=f093fb&text_color=c9d1d9&count_private=true" width="100%" />
     </td>
-    <td width="55%" align="center" style="border: none;">
+    <td width="50%" align="center" style="border: none;">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=sihabdevofficial&theme=radical&hide_border=true&background=0D111700&ring=667eea&fire=f093fb" width="100%" />
     </td>
   </tr>
@@ -78,7 +78,7 @@
 ### ⚡ Contribution Flow
 <p align="center">
   <a href="https://github.com/sihabdevofficial">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sihabdevofficial&bg_color=0D1117&color=667eea&line=f093fb&point=c9d1d9&hide_border=true&area=true&theme=radical" width="100%" alt="Sihab's GitHub Activity Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sihabdevofficial&bg_color=0D1117&color=667eea&line=f093fb&point=c9d1d9&hide_border=true&area=true&theme=radical" width="80%" alt="Sihab's GitHub Activity Graph" />
   </a>
 </p>
 
