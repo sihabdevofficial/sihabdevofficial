@@ -58,11 +58,11 @@
 
 <table border="0" width="100%">
   <tr>
-    <td width="50%" align="center" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api?username=sihabdevofficial&show_icons=true&theme=radical&hide_border=true&bg_color=0D111700&title_color=667eea&icon_color=f093fb&text_color=c9d1d9&count_private=true" width="95%" />
+    <td width="40%" align="center" style="border: none;">
+      <img src="https://github-readme-stats.vercel.app/api?username=sihabdevofficial&show_icons=true&theme=radical&hide_border=true&bg_color=0D111700&title_color=667eea&icon_color=f093fb&text_color=c9d1d9&count_private=true" width="100%" />
     </td>
-    <td width="50%" align="center" style="border: none;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=sihabdevofficial&theme=radical&hide_border=true&background=0D111700&ring=667eea&fire=f093fb" width="95%" />
+    <td width="60%" align="center" style="border: none;">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=sihabdevofficial&theme=radical&hide_border=true&background=0D111700&ring=667eea&fire=f093fb" width="100%" />
     </td>
   </tr>
   <tr>
