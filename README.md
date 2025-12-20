@@ -21,7 +21,7 @@
   <a href="https://sihabdevofficial.github.io/profile/" target="_blank">
     <img src="https://img.shields.io/badge/Profile-About%20Me-1a1b27?style=flat&logo=person&logoColor=00ff88" />
   </a>
-  <a href="https://linkedin.com/in/yourusername" target="_blank">
+  <a href="https://www.linkedin.com/in/sihab-hasan-7595653a1/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-1a1b27?style=flat&logo=linkedin&logoColor=0A66C2" />
   </a>
 </p>
@@ -103,7 +103,7 @@
 
 ### Connect
 <p align="center">
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/sihab-hasan-7595653a1/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="https://twitter.com/sihabxd"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" /></a>
   <a href="https://facebook.com/sihab.xd"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" /></a>
   <a href="https://instagram.com/sihab.xd"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
