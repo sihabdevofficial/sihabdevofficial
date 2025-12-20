@@ -76,7 +76,11 @@
 ---
 
 ### ⚡ Contribution Flow
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sihabdevofficial&bg_color=0D1117&color=667eea&line=f093fb&point=c9d1d9&hide_border=true&area=true&theme=radical" width="80%" />
+<p align="center">
+  <a href="https://github.com/sihabdevofficial">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sihabdevofficial&bg_color=0D1117&color=667eea&line=f093fb&point=c9d1d9&hide_border=true&area=true&theme=radical" width="100%" alt="Sihab's GitHub Activity Graph" />
+  </a>
+</p>
 
 <br>
 
