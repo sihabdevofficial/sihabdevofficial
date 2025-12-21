@@ -2,7 +2,7 @@
 
 <!-- Header -->
 <a href="https://sihabxd.web.app" target="_blank">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=SIHAB%20HASAN&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=SIHAB%20HASAN&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%" />
 </a>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=00F7F7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Tech+Architect;Cloud+Engineer;DevOps+Specialist;Game+Developer;AI+Solutions+Expert" />
