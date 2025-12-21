@@ -57,7 +57,9 @@
   <a href="https://gist.github.com/sihabdevofficial">
     <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/sihabdevofficial&query=$.public_gists&label=Gists&style=for-the-badge&color=667eea&labelColor=1a1b27" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=sihabdevofficial&label=Profile%20Views&color=f093fb&style=for-the-badge&labelColor=1a1b27" />
+  <a href="https://github.com/sihabdevofficial">
+    <img src="https://komarev.com/ghpvc/?username=sihabdevofficial&label=Profile%20Views&color=f093fb&style=for-the-badge&labelColor=1a1b27"/>
+  </a>
 </p>
 
 <table border="0" width="100%">
