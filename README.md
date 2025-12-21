@@ -8,8 +8,12 @@
 
 <!-- Row 1 : Status -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Experience-2%2B%20Years-1a1b27?style=flat&logo=databricks" />
-  <img src="https://img.shields.io/badge/Available-For%20Hire-1a1b27?style=flat&logo=checkmarx&logoColor=00ff88" />
+  <a href="https://sihabxd.web.app" target="_blank">
+    <img src="https://img.shields.io/badge/Experience-2%2B%20Years-1a1b27?style=flat&logo=databricks&logoColor=ff6f61" />
+  </a>
+  <a href="mailto:sihab.dev.official@gmail.com">
+    <img src="https://img.shields.io/badge/Available-For%20Hire-1a1b27?style=flat&logo=checkmarx&logoColor=00ff88" />
+  </a>
   <img src="https://img.shields.io/badge/Status-Active-1a1b27?style=flat&logo=statuspage&logoColor=00ff88" />
 </p>
 
