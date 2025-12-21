@@ -2,11 +2,10 @@
 
 <!-- Header -->
 <a href="https://sihabxd.web.app" target="_blank">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=SIHAB%20HASAN&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=SIHAB%20HASAN&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%" />
 </a>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=00F7F7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Tech+Architect;Cloud+Engineer;DevOps+Specialist;Game+Developer;AI+Solutions+Expert" />
-
 <!-- Status Badges -->
 <p>
   <a href="https://sihabxd.web.app" target="_blank"><img src="https://img.shields.io/badge/Experience-2%2B%20Years-1a1b27?style=flat&logo=databricks&logoColor=ff6f61" /></a>
@@ -38,20 +37,23 @@
   <a href="https://github.com/sihabdevofficial"><img src="https://komarev.com/ghpvc/?username=sihabdevofficial&label=Profile%20Views&color=f093fb&style=for-the-badge&labelColor=1a1b27"/></a>
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=sihabdevofficial&show_icons=true&theme=radical&hide_border=true&bg_color=0D111700&title_color=667eea&icon_color=f093fb&text_color=c9d1d9&count_private=true" width="49%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=sihabdevofficial&theme=radical&hide_border=true&background=0D111700&ring=667eea&fire=f093fb" width="49%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sihabdevofficial&layout=compact&theme=radical&hide_border=true&bg_color=0D111700&title_color=667eea&text_color=c9d1d9&langs_count=10" width="40%" />
+<table width="100%"><tr>
+<td align="center"><img src="https://github-readme-stats.vercel.app/api?username=sihabdevofficial&show_icons=true&theme=radical&hide_border=true&bg_color=0D111700&title_color=667eea&icon_color=f093fb&text_color=c9d1d9&count_private=true" width="95%"></td>
+<td align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sihabdevofficial&theme=radical&hide_border=true&background=0D111700&ring=667eea&fire=f093fb" width="95%"></td>
+</tr><tr>
+<td colspan="2" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sihabdevofficial&layout=compact&theme=radical&hide_border=true&bg_color=0D111700&title_color=667eea&text_color=c9d1d9&langs_count=10" width="45%"></td>
+</tr></table>
 
 ---
 
 ### ⚡ Contribution Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sihabdevofficial&bg_color=0D1117&color=667eea&line=f093fb&point=c9d1d9&hide_border=true&area=true&theme=radical" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sihabdevofficial&bg_color=0D1117&color=667eea&line=f093fb&point=c9d1d9&hide_border=true&area=true&theme=radical" width="90%" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sihabdevofficial/sihabdevofficial/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sihabdevofficial/sihabdevofficial/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/sihabdevofficial/sihabdevofficial/output/github-contribution-grid-snake.svg" width="100%">
+  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/sihabdevofficial/sihabdevofficial/output/github-contribution-grid-snake.svg" width="80%">
 </picture>
 
 ---
@@ -83,6 +85,6 @@
   <img src="https://img.shields.io/badge/Open_Source-Yes-2ea44f?style=flat-square" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
 
 </div>
